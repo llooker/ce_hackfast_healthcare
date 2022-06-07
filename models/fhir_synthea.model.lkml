@@ -1,5 +1,5 @@
 # Define the database connection to be used for this model.
-connection: "fhir_synthea_sample"
+connection: "looker-private-demo"
 
 # include all the views
 include: "/views/**/*.view"
